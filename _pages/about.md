@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">PhD student in Imaging Physics at TU Delft</a>.
+description: PhD student in Imaging Physics at TU Delft.
 
 profile:
   align: right
