@@ -2,23 +2,20 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">PhD student in Imaging Physics at TU Delft</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office D.208, Building 22</p>
+    <p>Applied Sciences, TU Delft</p>
+    <p>Delft, 2628 CJ, The Netherlands</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Chiara is a PhD student in [Imaging Physics](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/){:target="\_blank"} at the [TU Delft](https://www.tudelft.nl/en/){:target="\_blank"}. She received her double M.Sc. degree in Biomedical Engineering from [Politecnico di Milano](https://www.polimi.it/en/){:target="\_blank"} and [Politecnico di Torino](https://www.polito.it/index.php?lang=en){:target="\_blank"}. During her M.Sc., Chiara was among the 1% of students selected for the excellence program [Alta Scuola Politecnica](https://www.polito.it/index.php?lang=en){:target="\_blank"}, she completed an exchange semester at the [KTH Royal Institute of Technology](https://www.kth.se/en){:target="\_blank"} in Sweden and she worked as a research assistant at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}.
+Currently, Chiara is a member of the Magnetic Resonance Systems Lab ([MarsLab](https://www.mars-lab.eu/){:target="\_blank"}) where she is working on advancing quantitative MRI under the supervision of Sebastian Weingärtner. Chiara’s research focuses on developing new direct and non-invasive contrast mechanisms for functional brain MRI, beyond conventional BOLD imaging. She is part of the organizing committee for [ISMRM Benelux](https://www.ismrm-benelux.org/){:target="\_blank"} meeting 2022. With her work, Chiara aims at integrating physics, engineering and computational sciences to unlock new frontiers in neuroscience through MRI.
