@@ -10,7 +10,7 @@ profile:
   address: >
     <p>Building 22, D208</p>
     <p>Applied Sciences</p>
-    <p>TU Delft, Netherlands</p>
+    <p>TU Delft Netherlands</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
