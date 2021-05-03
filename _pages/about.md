@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Office D.208, Building 22</p>
-    <p>Applied Sciences, TU Delft</p>
-    <p>Delft, 2628 CJ, The Netherlands</p>
+    <p>Building 22, D208</p>
+    <p>Applied Sciences</p>
+    <p>TU Delft, Netherlands</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
